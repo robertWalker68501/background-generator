@@ -37,7 +37,7 @@ These features still need to be added:
 
 ### Links
 
-- Live Site URL: [GitHub](https://your-live-site-url.com)
+- Live Site URL: [GitHub](https://robertwalker68501.github.io/background-generator/)
 
 ## My process
 
