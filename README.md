@@ -1,4 +1,4 @@
-#Background Generator
+# Background Generator
 
 This is an open source project originally created for a Javascript class at [Zero to Mastery](https://zerotomastery.io/). Feel free to fork this repo and add features of your own.
 
